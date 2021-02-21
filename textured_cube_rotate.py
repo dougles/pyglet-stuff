@@ -1,3 +1,5 @@
+# Left,right, up, down keys to rotate, scroll mouse to zoom
+
 import pyglet
 from pyglet.gl import *
 from pyglet.window import key

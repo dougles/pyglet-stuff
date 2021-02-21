@@ -5,6 +5,12 @@
 
 `source venv/bin/activate`
 
-###Install dependencies
+### Install dependencies
 
 `pip install -e .`
+
+- `textured_cube_rotate.py` script: 
+  
+    left,right, up, down keys to rotate
+  
+    scroll mouse to zoom
