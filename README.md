@@ -16,3 +16,5 @@ Pyglet python library to create 3D graphics using OPENGL
     left,right, up, down keys to rotate
   
     scroll mouse to zoom
+
+![alt text](https://github.com/dougles/pyglet-stuff/blob/master/images/cube.png)
